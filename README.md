@@ -16,6 +16,7 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+~~~
 <html>
 <head>
 <style type = "text/css">
@@ -67,7 +68,7 @@ p
             E-MAIL ID:srimathisakthivel2004@GMAIL.COM</p>
 </body>
 </html>
-
+~~~
 ## OUTPUT
 ![web no 05](https://github.com/SrimathiJeyalakshmi/Ex05_Web-Design/assets/127816530/b58c18d2-29b3-41a5-8f12-f21f5bb71517)
 
